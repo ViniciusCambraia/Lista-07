@@ -1,6 +1,6 @@
 package HomeTheater;
 
-public class EquipamentoEletronico {
+public class EquipamentoEletronicoHT {
 
 	private float tensao;
 	private float consumo;
