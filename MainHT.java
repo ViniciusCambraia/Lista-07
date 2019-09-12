@@ -1,6 +1,6 @@
 package HomeTheater;
 
-public class Main {
+public class MainHT {
 
 	public static void main(String[] args) {
 		
